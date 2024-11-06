@@ -1,1 +1,1 @@
-export { LogBuilder } from './builder.ts'
+export { LogBuilder } from "./builder.ts";
